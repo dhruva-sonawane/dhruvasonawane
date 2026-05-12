@@ -1,4 +1,4 @@
-Dhruva Sonawane -
+# Dhruva Sonawane -
 
 Training in Artificial Intelligence & Data Science  
 Obsessed with building software that thinks, automates, and creates real-world impact.
