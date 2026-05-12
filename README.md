@@ -3,7 +3,7 @@
 Training in Artificial Intelligence & Data Science  
 Obsessed with building software that thinks, automates, and creates real-world impact.
 
-# Tech Stack
+## Tech Stack
 - Java
 - Python
 - JavaScript
@@ -11,14 +11,14 @@ Obsessed with building software that thinks, automates, and creates real-world i
 - Git & GitHub
 - MySQL
 
-# Current Focus
+## Current Focus
 - Building real-world software projects
 - Exploring Artificial Intelligence and Automation
 - Participating in hackathons
 - Strengthening Data Structures and Algorithms
 
-# Mission
+## Mission
 Transforming curiosity into intelligent systems, scalable products, and meaningful solutions.
 
-# Connect With Me
+## Connect With Me
 - Email: sonawanedhruva26@gmail.com
