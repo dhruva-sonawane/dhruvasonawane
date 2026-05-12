@@ -1,4 +1,4 @@
-![GitHub Banner](a_wide_professional_tech_themed_banner_header_i.png)
+![GitHub Banner](ChatGPT%20Image%20May%2012,%202026,%2007_24_32%20PM.png)
 
 # Dhruva Sonawane
 
